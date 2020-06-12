@@ -1,0 +1,6 @@
+a<- matrix(1:4,2,2)
+x <-1
+print(" This file was creadted within RStudio")
+print(" And now it lives on Github")
+
+abc <- solve(a)
